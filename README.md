@@ -3,7 +3,7 @@
 
 
 <h2>Sobre o projeto</h2>
-<p>Nesse projeto eu reconstrui a página de login do instagram. 
+<p>Nesse projeto eu reconstruí a página de login do instagram. 
 Utilizei o CSS com flexbox, que uma das abordagens de posicionamento de elementos quando se trata de responsividade.</p>
 
 
